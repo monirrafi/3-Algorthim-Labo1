@@ -3,12 +3,12 @@ P;02/12/1923;Tournage;12354;5
 L;02/12/1923;Vector Hugo;Les misirables;chosepresse
 P;02/12/1923;Tournage;12354;5
 L;22/02/1963;Vector Hugo;Les misirables;chosepresse
-C;02/08/1993;Wall;Pink Floyd
+C;02/08/1993;Pink Floyd;Wall
 L;02/12/1923;Vector Hugo;Les misirables;chosepresse
 P;02/12/1923;Tournage;12354;5
 L;22/02/1963;Vector Hugo;Les misirables;chosepresse
-C;02/08/1993;Wall;Pink Floyd
+C;02/08/1993;Pink Floyd;Wall
 L;02/12/1923;Vector Hugo;Les misirables;chosepresse
 P;02/12/1923;Tournage;12354;5
 L;22/02/1963;Vector Hugo;Les misirables;chosepresse
-C;02/08/1993;Wall;Pink Floyd
+C;02/08/1993;Pink Floyd;Wall

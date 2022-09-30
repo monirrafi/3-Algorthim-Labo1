@@ -26,10 +26,17 @@ public class CDisque extends Ouvrage{
         this.auteurCD = auteurCD;
     }
 
+    
+    public String strAffichage() {
+
+        return  super.strAffichage() +  ";" + titreCD+ ";" + auteurCD + "\n";
+    }
     @Override
     public String toString() {
 
         return  super.toString() +  "\t" + super.envollopeMot(titreCD,15) + "\t" + super.envollopeMot(auteurCD,15) + "\n";
     }
+
+
 
 }

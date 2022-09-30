@@ -27,6 +27,11 @@ public class Periodique extends Ouvrage{
     public void setPeriodicite(int periodicite) {
         this.periodicite = periodicite;
     }
+    
+    public String strAffichage() {
+
+        return  super.strAffichage() +  ";" + nom + ";" + numero + ";" + periodicite + "\n";
+    }
     @Override
     public String toString() {
 

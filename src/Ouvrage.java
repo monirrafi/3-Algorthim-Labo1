@@ -34,9 +34,16 @@ public class Ouvrage implements Serializable{
         }
         return retour;
     }
+    
+    public String strAffichage() {
+        //return "  " + this.cote + ";" + this.date ;
+        return this.date ;
+    
+    }
     @Override
     public String toString() {
         return "  " + this.cote + "\t" + this.date ;
     }
+
     
 }
